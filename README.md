@@ -1,16 +1,21 @@
-# Hey, I'm Vansh 👋
+<div align="center">
 
-### BCA Student • Developer • Tech Explorer
+# 👋 Hey, I'm Vansh
 
-<p align="left">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+### 💻 BCA Student • Developer • Tech Explorer
+
+*Building things, learning things, and occasionally breaking things along the way.*
+
+<p>
+  <a href="https://github.com/vanshb412-alt">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/vansh-bansal--/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
+</div>
 ---
 
 ## 🚀 About Me
