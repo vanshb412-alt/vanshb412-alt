@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Vansh
+# 👋 Hey, I'm Vansh Bansal
 
 ### 💻 BCA Student • Developer • Tech Explorer
 
